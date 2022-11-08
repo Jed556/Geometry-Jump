@@ -12,18 +12,25 @@
   All geometry dash assets are from RobTop Games.
 </p>
 
-## Dependencies
-[**Universal GameMaker Patcher**](https://silica.codes/SilicaAndPina/UGP/releases) by SilicaAndPina.
+## Build
+### Dependencies
+- [**Universal GameMaker Patcher**](https://silica.codes/SilicaAndPina/UGP/releases) by SilicaAndPina
+- [**Game Maker 8.1 Lite**](https://www.mrdownload.com/downloads/static/apps/1506)
 
 ## Download
 Check [**Releases**](https://github.com/Jed556/Geometry-Jump/releases) page and install the latest [**Geometry Jump.exe**](https://github.com/Jed556/Geometry-Jump/releases) release.
 
 
+## Controls
+- **Left Mouse Button**: Jump / Click
+- **Space**: Start Game / Jump
+- **Escape**: Toggle menu
+
 ## Debug
 Press `F12` to open debug menu.
-- 1: Restart Room
-- 2: Restart Game
-- 3: Save
-- 4: Load
+- **1**: Restart Room
+- **2**: Restart Game
+- **3**: Save
+- **4**: Load
 
 _Still not open-sourced due to big file size._
