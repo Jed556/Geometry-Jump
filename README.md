@@ -12,7 +12,18 @@
   All geometry dash assets are from RobTop Games.
 </p>
 
+## Dependencies
+[**Universal GameMaker Patcher**](https://silica.codes/SilicaAndPina/UGP/releases) by SilicaAndPina.
+
 ## Download
 Check [**Releases**](https://github.com/Jed556/Geometry-Jump/releases) page and install the latest [**Geometry Jump.exe**](https://github.com/Jed556/Geometry-Jump/releases) release.
+
+
+## Debug
+Press `F12` to open debug menu.
+- 1: Restart Room
+- 2: Restart Game
+- 3: Save
+- 4: Load
 
 _Still not open-sourced due to big file size._
